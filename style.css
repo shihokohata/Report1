@@ -19,6 +19,7 @@
    gap:35px;
    text-align: center;
    font-size: 10px;
+   position: relative;
  }
  
  .normal {
@@ -38,7 +39,7 @@
  }
  
  .first-view{
-  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 100px;
